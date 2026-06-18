@@ -1,0 +1,30 @@
+# macOS system files
+
+.DS_Store
+__MACOSX/
+
+# Editable report drafts
+
+*.docx
+*.pptx
+*.pages
+
+# Temporary files
+
+*.tmp
+*.log
+
+# Backup files
+
+*.bak
+*.swp
+
+# Data files
+
+*.csv
+*.xlsx
+
+# Tableau / BI working files
+
+*.twb
+*.twbx
